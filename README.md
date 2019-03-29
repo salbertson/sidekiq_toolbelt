@@ -1,4 +1,4 @@
-# Sidekiq Toolbelt
+# Sidekiq Toolbelt - Just a test
 
 ## Installation
 
