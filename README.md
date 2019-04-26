@@ -1,4 +1,4 @@
-# Sidekiq Toolbelt
+# Sidekiq Toolbelt WAT
 
 ## Installation
 
